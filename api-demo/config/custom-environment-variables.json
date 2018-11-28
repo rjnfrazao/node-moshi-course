@@ -1,0 +1,7 @@
+// File custom-environment-variable.json is used by Config to store
+// config variable loaded withset OS environment variables.
+{
+    "mail":{
+        "password": "apidemo_mailPassword"
+    }
+}

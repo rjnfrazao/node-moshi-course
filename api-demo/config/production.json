@@ -1,0 +1,7 @@
+{
+    "appName" : "API Demo - Production",
+    "appMail" : {
+        "host":"prod.mail.host",
+        "email":"production@company.com"
+    }
+}
